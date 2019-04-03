@@ -7,5 +7,5 @@ def roll
 end
 
 def roll
-  dice = []
+  dice = [1, 2, 3, 4, 5, 6]
 end
